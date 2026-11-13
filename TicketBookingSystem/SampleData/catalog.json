@@ -1,0 +1,11 @@
+{
+  "events": [
+    { "name": "Tech Conference", "unitPrice": 150.0, "availableCapacity": 50 },
+    { "name": "Jazz Night", "unitPrice": 45.5, "availableCapacity": 10 },
+    { "name": "Sold Out Gala", "unitPrice": 300.0, "availableCapacity": 0 }
+  ],
+  "promoCodes": [
+    { "code": "WELCOME10", "discountPercent": 10 },
+    { "code": "NODISCOUNT", "discountPercent": 0 }
+  ]
+}

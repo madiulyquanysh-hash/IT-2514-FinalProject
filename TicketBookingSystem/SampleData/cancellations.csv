@@ -1,0 +1,6 @@
+reference,cancelledOn,reason
+B-001,2026-10-03,Change of plans
+B-003,2026-10-15,Schedule conflict
+B-001,2026-10-20,Duplicate request
+B-099,2026-10-04,Unknown booking
+B-005,2026-10-01,Typo in date
