@@ -6,9 +6,11 @@ Introduction to Functional Programming, academic year 2026 to 2027.
 
 | Madiuly Kuanysh | IT-2514 | all modules (individual project) |
 
-- Repository URL: *fill in*
-- Branch: *fill in*
-- Final commit: *fill in*
+- Repository URL:
+[https://github.com/madiulyquanysh-hash/IT-2514-FinalProject]
+(https://github.com/madiulyquanysh-hash/IT-2514-FinalProject)
+- Branch: main
+- Final commit: Initial commit: TicketBookingSystem final project
 
 ## Problem, users, goals
 
@@ -135,14 +137,6 @@ Latest test outcome: run `dotnet test` and paste the summary (total 217, passed 
 ## References
 
 Official .NET documentation (LINQ, P/Invoke, System.Collections.Immutable) and the course lectures. No external application code was copied.
-
-## Responsibilities
-
-| Feature | Owner |
-|---|---|
-| All modules and tests | Madiuly Kuanysh |
-
-
 
 
 "# IT-2514-FinalProject" 
